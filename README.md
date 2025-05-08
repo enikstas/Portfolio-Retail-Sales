@@ -1,7 +1,7 @@
 # 🏖️ Retail Sales Dashboard
 
 ## 📝 Introduction
-This project uses generated sales data for retail stores in Florida during the summer of 2025 to demonstrate my skills in data analysis, visualization, and interpretation. The dataset simulates realistic sales patterns, capturing the impact of weather, tourist peaks, and time of day.
+This project uses generated sales data for retail stores in Florida during the summer of 2025 to demonstrate my skills in data analysis, visualization, and interpretation. The dataset simulates realistic sales patterns, capturing the impact of tourist peaks, and time of day.
 
 ---
 ## ❔ Objective
@@ -53,9 +53,7 @@ This project uses generated sales data for retail stores in Florida during the s
 
 ---
 ## 💻 Dashboard Preview
-![Uploading RetailSales preview.JPG…]()
-
----
+![RetailSales preview](https://github.com/user-attachments/assets/6c867a5e-1ad5-4e45-a1e0-12cea869c2ae)
 
 ## 🔎 Outcome
 - Developed an interactive Power BI dashboard to explore retail sales trends.
