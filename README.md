@@ -53,6 +53,7 @@ This project uses generated sales data for retail stores in Florida during the s
 
 ---
 ## 💻 Dashboard Preview
+![Uploading RetailSales preview.JPG…]()
 
 ---
 
