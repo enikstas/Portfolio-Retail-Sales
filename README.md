@@ -64,17 +64,6 @@ This project uses generated sales data for retail stores in Florida during the s
 
 ---
 
-## 📂 Project Structure
-
-FloridaRetailSales/
-├── 📂 data/
-│            └── 📝 **sales.csv** - Generated sales data (~10,000 rows, summer 2025)
-├── 📂 dashboard/
-│            └── 📝 **FloridaRetailSales.pbix** - Power BI dashboard file
-└── README.md - Project documentation
-
 ✅ Shared for transparency and accessibility of the analysis.
-
----
 ## 📬 Connect
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/enikstas/) to discuss data analytics, retail insights, or collaborations!
