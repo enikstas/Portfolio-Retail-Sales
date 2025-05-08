@@ -47,13 +47,12 @@ This project uses generated sales data for retail stores in Florida during the s
 ## 📊 Key Business Insights
 - **Top Stores**: Shop D (Tourist) generates ~30% of total revenue due to high tourist traffic.
 - **Popular Categories**: Clothing and Accessories dominate sales, especially in Coastal stores during sunny weather.
-- **Weather Impact**: Rainy days reduce sales by 40% for beach-related products (e.g., Swimsuit, Sunscreen).
 - **Return Rates**: Clothing has a 10% return rate, indicating potential sizing or quality issues.
 - **Peak Hours**: Sales peak between 10:00 AM and 4:00 PM for beach products, suggesting optimal staffing times.
 
 ---
 ## 💻 Dashboard Preview
-![RetailSales preview](https://github.com/user-attachments/assets/6c867a5e-1ad5-4e45-a1e0-12cea869c2ae)
+![Preview](https://github.com/user-attachments/assets/13380c4b-7c4f-4861-99e1-079baf847af4)
 
 ## 🔎 Outcome
 - Developed an interactive Power BI dashboard to explore retail sales trends.
