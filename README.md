@@ -13,7 +13,7 @@ This project uses generated sales data for retail stores in Florida during the s
 ---
 ## 💼 Tools
 - **sales.csv**: Generated dataset (3.502 rows) containing sales transactions from June 1 to August 31, 2025. Columns include `sales_id`, `date` (MM/DD/YYYY HH:MM AM/PM), `Shop`, `product category`, `product name`, `quantity`, `price`, and `is_returned`.
-- **FloridaRetailSales.pbix**: Power BI dashboard file with interactive visualizations, KPIs, and filters for exploring sales trends.
+- **RetailSales.pbix**: Power BI dashboard file with interactive visualizations, KPIs, and filters for exploring sales trends.
 
 ---
 ## 🚀 Project Workflow
